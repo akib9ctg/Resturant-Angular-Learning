@@ -26,11 +26,12 @@
               "src/styles.css"
             ],
             "scripts": [
+              "src/assets/js/vendor/jquery-1.11.0.min.js",
+              "src/assets/js/vendor/jquery.gmap3.min.js",
               "src/assets/js/bootstrap.js",             
               "src/assets/js/main.js",
               "src/assets/js/plugins.js",
-              "src/assets/js/vendor/jquery-1.11.0.min.js",
-              "src/assets/js/vendor/jquery.gmap3.min.js",
+
               "src/assets/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"
 
             ]
